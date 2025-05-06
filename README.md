@@ -22,23 +22,14 @@ I enjoy exploring new technologies and solving problems. I have various interest
 
 # 🧰 Languages and Tools I work with *(🌱 Still learning)*
 
-#### ${\color{DeepPink}▬}$ Operating System
-> <img align="left" src="https://www.svgrepo.com/show/349544/ubuntu.svg" alt="Ubuntu" width="30" height="30"/>
-> <img align="left" src="https://www.svgrepo.com/show/382713/windows-applications.svg" alt="Windows" width="30" height="30"/>  
-<br><br><br>
-
-### 🖥️ *Front-End Development* :
-#### ${\color{DarkViolet}▬}$ Languages
->    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="30" height="30">
->    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="30" height="30">
->    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30" height="30">
->    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="30" height="30">
+#### ${\color{DeepPink}▬}$ Operating System  <a href="https://microsoft.com/"><img align="right" src="https://www.svgrepo.com/show/382713/windows-applications.svg" alt="Windows" width="30" height="30"/> <a href="https://ubuntu.com/"><img align="right" src="https://www.svgrepo.com/show/349544/ubuntu.svg" alt="Ubuntu" width="30" height="30"/></a>
 <br>
 
-#### ${\color{DarkViolet}▬}$ JS Libraries
->    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="AngularJS" width="30" height="30">
->    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30">
-<br><br><br>
+### 🖥️ *Front-End Development* :
+#### ${\color{DarkViolet}▬}$ Languages    <a href="https://www.typescriptlang.org/"><img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="30" height="30">    <a href="https://www.javascript.com/"><img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30" height="30">    <a href="https://www.w3.org/Style/CSS/"><img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="30" height="30">    <a href="https://html.spec.whatwg.org/"><img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="30" height="30"></a>
+
+#### ${\color{DarkViolet}▬}$ JS Libraries    <a href="https://react.dev/"><img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30">    <a href="https://angular.dev/"><img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="AngularJS" width="30" height="30"></a>
+<br>
 
 ### ⚙️ *Back-End Development}* :
 #### ${\color{DarkSlateBlue}▬}$ Servers
@@ -68,7 +59,7 @@ I enjoy exploring new technologies and solving problems. I have various interest
 <br><br><br>
 
 ## 📧 Contact
->    <img align="left" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="LinkedIn" width="30" height="30">
+>    <a href="mailto:francezonfabien@gmail.com"><img align="left" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="LinkedIn" width="30" height="30"></a>
 >    <img align="left" src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg" alt="LinkedIn" width="30" height="30">
 
 <br><br><br>
