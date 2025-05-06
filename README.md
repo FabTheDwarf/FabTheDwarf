@@ -73,7 +73,7 @@ I enjoy exploring new technologies and solving problems. I have various interest
 
 <br><br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabTheDwarf&theme=tokyonight&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabTheDwarf&theme=tokyonight&show_icons=true) -->
 
 👋 Thanks for reading me ! ${\color{DeepPink}▬\color{DarkViolet}▬\color{DarkSlateBlue}▬\color{DodgerBlue}▬\color{DarkTurquoise}▬}$
 
