@@ -48,7 +48,7 @@ I enjoy exploring new technologies and solving problems. I have various interest
 
 # 📧 Contact   
  <a href="mailto:francezonfabien@gmail.com"><img align="left" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Google Mail" width="30" height="30"> 
- <a href="#"><img align="center" src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg" alt="LinkedIn" width="30" height="30"></a> 
+ <a href="https://www.linkedin.com/in/fabien-francezon-5977aa364/"><img align="center" src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg" alt="LinkedIn" width="30" height="30"></a> 
 <br><br>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabTheDwarf&theme=tokyonight&show_icons=true) -->
