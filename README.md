@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 # 📖 About me ${\color{DeepPink}▬\color{DarkViolet}▬\color{DarkSlateBlue}▬\color{DodgerBlue}▬\color{DarkTurquoise}▬}$
 
-Hi! I'm Fabien and I am an apprentice developer currently transitioning from a medical career to software development.  
-I have some experience with various technologies, ranging from backend  to frontend development.  
+Hi! I'm Fabien and I am a junior developer currently transitioning from a medical career to software development.  
+I have some experience with various technologies, ranging from backend with Node.js to frontend development with TypeScript.  
 I enjoy exploring new technologies and solving problems. I have various interests in design, hardware, 3D printing and home automation.
 <br><br>
 
