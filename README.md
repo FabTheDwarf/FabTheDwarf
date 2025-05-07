@@ -31,7 +31,7 @@ I enjoy exploring new technologies and solving problems. I have various interest
 #### ${\color{DarkViolet}▬}$ JS Libraries    <a href="https://react.dev/"><img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30">    <a href="https://angular.dev/"><img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="AngularJS" width="30" height="30"></a>
 <br>
 
-### ⚙️ *Back-End Development}* :
+### ⚙️ *Back-End Development* :
 #### ${\color{DarkSlateBlue}▬}$ Servers    <a href="https://nodejs.org/en"><img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="30" height="30"></a>
 
 #### ${\color{DarkSlateBlue}▬}$ Databases    <a href="https://www.postgresql.org/"><img align="right" src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostGreSQL" width="30" height="30"></a>
