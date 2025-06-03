@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 📖 About me ${\color{DeepPink}▬\color{DarkViolet}▬\color{DarkSlateBlue}▬\color{DodgerBlue}▬\color{DarkTurquoise}▬}$
+$$\color{DeepPink}{▬} \color{DarkViolet}{▬} \color{DarkSlateBlue}{▬} \color{DodgerBlue}{▬} \color{DarkTurquoise}{▬}$$
+
 
 Hi! I'm Fabien and I am a junior developer currently transitioning from a medical career to software development.  
 I have some experience with various technologies, ranging from backend with Node.js to frontend development with TypeScript.  
